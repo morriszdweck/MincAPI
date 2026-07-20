@@ -1,0 +1,8 @@
+{
+  "name": "MincAPI",
+  "description": "A developer-first, free AI API delivering text generation via simple GET requests with 'Fast' and 'Smart' models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
